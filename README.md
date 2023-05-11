@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="logo_mitoafro" align="center" src="https://github.com/salvedojuliao/page_faq-accordion-card-main/assets/44206400/d408c47d-74fc-42ea-9eae-82d8788e92c4" /> FAQ accordion card </h1> 
+    <img alt="logo_faq" align="center" src="https://github.com/salvedojuliao/page_faq-accordion-card-main/assets/44206400/d408c47d-74fc-42ea-9eae-82d8788e92c4" /> FAQ accordion card </h1> 
 <h1>
   
 ![banner-faq](https://github.com/salvedojuliao/page_faq-accordion-card-main/assets/44206400/05b13a42-7bd2-4275-a89a-3f5fe46c7e8b)
