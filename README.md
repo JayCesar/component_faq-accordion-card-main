@@ -37,6 +37,8 @@ This page is an implementation of the FAQ Accordion Card challenge on Frontend M
 ***
 
 ## 🖥️ Demo  
+    
+![gif-faq](https://github.com/salvedojuliao/page_faq-accordion-card-main/assets/44206400/cb2b76ee-427e-49a5-a5a2-3e2209dd83a0)
 
 
 ***
