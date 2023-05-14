@@ -44,7 +44,7 @@ This page is an implementation of the FAQ Accordion Card challenge on Frontend M
 ***
 
 ## ▶️ How to access it?
-You just need to click ➙ <b><a href="https://salvedojuliao.github.io/page_faq-accordion-card-main/">FAQ accordion card </a></b>
+You just need to click ➙ <b><a href="https://jaycesar.github.io/page_faq-accordion-card-main/">FAQ accordion card </a></b>
 
 ***
 
